@@ -1,0 +1,16 @@
+#mainContainer {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+  width: 750px;
+  margin: 100px auto 0;
+}
+.new-div {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding:  16px;
+  font-size: 30px;
+  text-align: center;
+}
+.painted{
+    background-color: black;
+}
